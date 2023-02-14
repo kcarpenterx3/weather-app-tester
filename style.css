@@ -1,0 +1,32 @@
+.container {
+  max-width: 525px;
+  max-height: 400px;
+  margin: 50px;
+}
+
+.heading {
+  font-weight: bold;
+  font-family: "Lucida Bright";
+}
+
+h3 {
+  position: absolute;
+  left: 355px;
+  top: 50px;
+  font-size: 40px;
+}
+
+h4 {
+  text-align: left;
+}
+
+.current-location {
+  border-radius: 6px;
+  border-width: 2px;
+}
+
+.searching {
+  position: absolute;
+  left: 200px;
+  top: 167px;
+}
