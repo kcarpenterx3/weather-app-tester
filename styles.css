@@ -30,7 +30,7 @@ li {
 
 .heading {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  left: 100px;
+  left: 80px;
 }
 
 .current-location {
@@ -45,4 +45,11 @@ li {
   position: absolute;
   top: 90px;
   left: 180px;
+}
+
+.additional-information {
+  position: absolute;
+  left: 435px;
+  top: 170px;
+  font-size: 10px;
 }
